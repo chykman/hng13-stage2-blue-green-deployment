@@ -2,7 +2,7 @@
 
 # Deploy Blue/Green to live server and cleanup old apps
 
-SERVER_IP="100.26.31.238"
+SERVER_IP="18.219.154.84"
 SERVER_USER="ubuntu"
 SSH_KEY="hng.pem"  # Update this path
 
