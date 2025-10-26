@@ -4,7 +4,7 @@
 
 SERVER_IP="18.219.154.84" 
 SERVER_USER="ubuntu"
-SSH_KEY="hng.pem"  # Update this path
+SSH_KEY="hng321.pem"  # Update this path
 
 echo "🔧 Setting up server for Blue/Green deployment"
 echo "=============================================="
